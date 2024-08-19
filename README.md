@@ -5,6 +5,7 @@ The Smart Assessment Board is a Python-based quiz application designed for teach
 
 ## Screenshots
 ![Screenshot 1](Screenshots/S1.jpg)
+ The interface where the user can enter their name, class, number of questions, select a quiz category (State Capitals), and choose a difficulty level before starting the quiz.
 ![Screenshot 2](Screenshots/S2.jpg)
 ![Screenshot 3](Screenshots/S3.jpg)
 ![Screenshot 4](Screenshots/S4.jpg)
