@@ -4,11 +4,24 @@
 The Smart Assessment Board is a Python-based quiz application designed for teachers to conduct quiz competitions on identifying states and their capitals in India. This application allows teachers to create quizzes, track scores, and display leaderboards, making it an effective tool for interactive learning.
 
 ## Screenshots
-![Screenshot 1](Screenshots/S1.jpg)
+
  The interface where the user can enter their name, class, number of questions, select a quiz category (State Capitals), and choose a difficulty level before starting the quiz.
+ 
+![Screenshot 1](Screenshots/S1.jpg)
+
+Here it displays a quiz question asking for the capital of Kerala, with multiple-choice answers, a hint option, and a timer set for 30 seconds.
+
 ![Screenshot 2](Screenshots/S2.jpg)
+
+Here it shows a hint revealing the first letter of the answer.
+
 ![Screenshot 3](Screenshots/S3.jpg)
+
+ Here it shows a quiz completion screen showing results: 3 correct answers, 1 wrong answer, 1 hint used, and a final score of 30, with a congratulatory message.
+ 
 ![Screenshot 4](Screenshots/S4.jpg)
+
+Here it shows a "Quiz Completed!" message with a leaderboard displaying scores for three participants. The leaderboard data is stored in a JSON file named as "leaderboard.json".
 ![Screenshot 5](Screenshots/S5.jpg)
 
 ## Features
